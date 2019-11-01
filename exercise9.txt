@@ -1,2 +1,3 @@
 Pull exercise
-j ai faim on va bientôt se mettre à table
+Data from wc1
+Conflict resolved
