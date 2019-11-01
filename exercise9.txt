@@ -1,1 +1,2 @@
 Pull exercise
+Data from wc1
